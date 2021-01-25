@@ -1,0 +1,14 @@
+{
+    "require": {
+      "twbs/bootstrap": "^4.5",
+      "monolog/monolog": "^2.1",
+      "hassankhan/config": "^2.1",
+      "egulias/email-validator": "^2.1",
+      "lesstif/php-jira-rest-client": "^2.3",
+      "php-curl-class/php-curl-class": "^8.8",
+      "guzzlehttp/guzzle": "^7.0",
+      "kbsali/redmine-api": "^1.5",
+      "snapappointments/bootstrap-select": "^1.13",
+      "defuse/php-encryption": "^2.2"
+    }
+}
